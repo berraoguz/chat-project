@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "875776925761",
+    "firebase_url": "https://chatproject-e6268-default-rtdb.firebaseio.com",
+    "project_id": "chatproject-e6268",
+    "storage_bucket": "chatproject-e6268.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875776925761:android:909720161c6d4b80d8e6c0",
+        "android_client_info": {
+          "package_name": "com.berraoguz.chatproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOM93UvlW7FI7_HPbD9Fq08Vq5L_dhnPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
